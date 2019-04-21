@@ -9,9 +9,3 @@ Implemented by:
 - set the RC filter at the output;
 - output of the external cooler control from the logic level power supply bus;
 
-
-![рендер общий](https://github.com/SUNsung/dm-PWM/blob/master/PWM/rend1.png)
-
-![рендер в профиль](https://github.com/SUNsung/dm-PWM/blob/master/PWM/rend2.png)
-
-![рендер зад](https://github.com/SUNsung/dm-PWM/blob/master/PWM/rend3.png)
