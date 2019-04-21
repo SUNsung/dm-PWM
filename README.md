@@ -29,3 +29,7 @@ Implemented by:
 ![рендер в профиль](https://github.com/SUNsung/dm-PWM/blob/master/PWM/rend2.png)
 
 ![рендер зад](https://github.com/SUNsung/dm-PWM/blob/master/PWM/rend3.png)
+
+![печатка перед](https://github.com/SUNsung/dm-PWM/blob/master/PWM/shem1.png)
+
+![печатка зад](https://github.com/SUNsung/dm-PWM/blob/master/PWM/shem2.png)
