@@ -1,5 +1,18 @@
-PWM controller module on mosfet with driver.
+Many modules for building a multi-channel downmix PWM controller
+
+
+
+Central control unit:
+Coming soon ...
+
+
+
+
+PWM controller module with driver:
+
   logic level: 12V
+  working load: up to 10A
+  maximum load: 25A
 
 Implemented by:
 - dual position indicator of the driver;
