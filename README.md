@@ -10,9 +10,10 @@ Coming soon ...
 
 PWM controller module with driver:
 
-  logic level: 12V
-  working load: up to 10A
-  maximum load: 25A
+Main characteristics:
+ - logic level: 12V
+ - working load: up to 10A
+ - maximum load: 25A
 
 Implemented by:
 - dual position indicator of the driver;
